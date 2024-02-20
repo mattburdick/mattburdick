@@ -1,0 +1,12 @@
+{% if page.linkedin_post %}
+<div id="linkedin-comments"></div>
+<script src="https://platform.linkedin.com/comment/js/comment-injector.js"></script>
+<script>
+  LI.i18n.setLocale('en_US');
+  var options = {
+    url: '{{page.linkedin_post}}',
+    domId: 'linkedin-comments'
+  };
+  LI.CommentInjector.insertComment(options);
+</script>
+{% endif %}

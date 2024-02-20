@@ -18,5 +18,8 @@ I'm excited to blog my journey on GitHub.com
     <li><a href="https://linkedin.com/in/{{ site.linkedin_username}}">LinkedIn</a></li>
     <li><a href="https://github.com/{{ site.github_username}}">GitHub</a></li>
 </ul>
+# Testing postlinking
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7119991340733517824" height="403" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 
 
