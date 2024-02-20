@@ -1,7 +1,7 @@
 ---
 layout: post
-# author: mattburdick
+author: mattburdick
+tags: starform, something else
 # title: "mytitle"
-# published: true
 ---
 My post here
