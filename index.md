@@ -1,6 +1,16 @@
 <!-- https://mattburdick.github.io/mattburdick/ -->
 
-# My Projects
+---
+layout: default
+title: "Home"
+---
+
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
+<!-- # My Projects
 List of my projects go here
 # My interests
 Literally None
@@ -19,6 +29,6 @@ I'm excited to blog my journey on GitHub.com
     <li><a href="https://github.com/{{ site.github_username}}">GitHub</a></li>
 </ul>
 # Testing postlinking
-<p>See this post <a href="https://www.linkedin.com/posts/adamhobson_newjob-zoox-onezoox-activity-7153502722258862080-hOIm?utm_source=share&utm_medium=member_desktop">on LinkedIn</a></p>
+<p>See this post <a href="https://www.linkedin.com/posts/adamhobson_newjob-zoox-onezoox-activity-7153502722258862080-hOIm?utm_source=share&utm_medium=member_desktop">on LinkedIn</a></p> -->
 
 
