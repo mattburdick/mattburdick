@@ -6,8 +6,7 @@ categories: media
 tags: starform something
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
-
+![TurboPascal](/assets/turbo-pascal.webp))
 
 ## MathJax
 
@@ -53,9 +52,9 @@ Upload an image to the *assets* folder and embed it with `![title](/assets/name.
 
 A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
 
-![Flower](https://user-images.githubusercontent.com/4943215/55412447-bcdb6c80-5567-11e9-8d12-b1e35fd5e50c.jpg)
+![TurboPascal](/assets/turbo-pascal.webp))
 
-[Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
+[TurboPascal](https://opensource.com/article/21/8/my-first-programming-language) by Tomasz Waraksa
 
 ## Embedded content
 
