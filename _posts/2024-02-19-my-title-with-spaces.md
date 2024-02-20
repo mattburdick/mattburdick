@@ -6,7 +6,8 @@ categories: media
 tags: starform something
 ---
 
-![TurboPascal](/assets/turbo-pascal.webp))
+![TurboPascal]({{ site.baseurl }}/assets/turbo-pascal.webp))
+
 
 ## MathJax
 
