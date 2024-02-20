@@ -19,7 +19,6 @@ I'm excited to blog my journey on GitHub.com
     <li><a href="https://github.com/{{ site.github_username}}">GitHub</a></li>
 </ul>
 # Testing postlinking
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7119991340733517824" height="403" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
+<p>See this post <a href="https://www.linkedin.com/posts/adamhobson_newjob-zoox-onezoox-activity-7153502722258862080-hOIm?utm_source=share&utm_medium=member_desktop">on LinkedIn</a></p>
 
 
