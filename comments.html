@@ -1,6 +1,8 @@
 {% if page.linkedin_post %}
 <div id="linkedin-comments"></div>
+<!-- the script line below probably doesn't work -->
 <script src="https://platform.linkedin.com/comment/js/comment-injector.js"></script>
+<!-- Here's the platform docs for the comment API: https://learn.microsoft.com/en-us/linkedin/marketing/community-management/shares/comments-api?view=li-lms-2024-02&tabs=http  -->
 <script>
   LI.i18n.setLocale('en_US');
   var options = {
