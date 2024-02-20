@@ -1,5 +1,3 @@
-<!-- https://mattburdick.github.io/mattburdick/ -->
-
 ---
 layout: default
 title: "Home"
