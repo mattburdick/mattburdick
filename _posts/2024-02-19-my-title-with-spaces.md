@@ -1,7 +1,6 @@
 ---
 layout: post
 author: mattburdick
-tags: starform, something else
-# title: "mytitle"
+tags: starform something
 ---
 My post here

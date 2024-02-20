@@ -1,5 +1,7 @@
+<!-- https://mattburdick.github.io/mattburdick/ -->
+
 # My Projects
-List of my projects
+List of my projects go here
 # My interests
 Literally None
 # My blog

@@ -3,6 +3,6 @@ description: my description
 baseurl: /mattburdick
 linkedin_username: mattburdick1
 github_username: mattburdick
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0  # https://github.com/pages-themes/hacker/tree/master
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
